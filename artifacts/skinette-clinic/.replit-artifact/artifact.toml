@@ -1,0 +1,28 @@
+kind = "web"
+previewPath = "/"
+title = "Skinette Clinic"
+description = "A premium, conversion-focused website for Skinette Clinic in Faridabad, showcasing personalized laser and skin care treatments with appointment, call, WhatsApp, reviews, FAQ, and location experiences."
+version = "1.0.0"
+id = "artifacts/skinette-clinic"
+router = "path"
+
+[[services]]
+name = "web"
+paths = [ "/" ]
+localPort = 23461
+
+[services.development]
+run = "pnpm --filter @workspace/skinette-clinic run dev"
+
+[services.production]
+build = [ "pnpm", "--filter", "@workspace/skinette-clinic", "run", "build" ]
+serve = "static"
+publicDir = "artifacts/skinette-clinic/dist/public"
+
+[[services.production.rewrites]]
+from = "/*"
+to = "/index.html"
+
+[services.env]
+PORT = "23461"
+BASE_PATH = "/"

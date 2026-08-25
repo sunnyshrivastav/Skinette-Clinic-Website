@@ -1,0 +1,1026 @@
+Build a complete, production-quality, modern website for a premium Laser Treatment & Skin Clinic called "Skinette Clinic".
+
+IMPORTANT:
+Do not just create a basic landing page or a template. Design and develop the entire website with polished UI/UX, responsive layouts, animations, interactions, SEO structure, reusable components, and realistic clinic content. The final result should look like a premium professional clinic website that could be shown to a real paying client.
+
+==================================================
+BUSINESS INFORMATION
+==================================================
+
+Business Name:
+Skinette Clinic
+
+Business Category:
+Laser Treatment Clinic
+
+Phone:
+09582108622
+
+Address:
+2546, Opposite Sagar Cinema,
+HUDA Staff Colony,
+Sector 16,
+Faridabad, Haryana 121002
+
+Google Rating:
+4.8 / 5
+
+Total Reviews:
+255
+
+Location:
+Faridabad, Haryana, India
+
+==================================================
+PRIMARY GOAL
+==================================================
+
+The main purpose of this website is to convert visitors into:
+
+1. Phone calls
+2. WhatsApp enquiries
+3. Appointment bookings
+4. Clinic visits
+
+The website should immediately communicate:
+
+- Trust
+- Premium quality
+- Professional dermatology/laser care
+- Safety
+- Cleanliness
+- Modern technology
+- Personalized treatment
+- Excellent patient experience
+
+The design should feel premium, elegant, clean, trustworthy and sophisticated.
+
+Avoid making it look like:
+- A generic hospital website
+- A cheap beauty salon
+- A template website
+- An overly colorful cosmetic website
+
+==================================================
+DESIGN DIRECTION
+==================================================
+
+Create a premium "Medical Luxury + Modern Dermatology" visual identity.
+
+COLOR PALETTE:
+
+Primary background:
+#FAF8F6
+
+Secondary background:
+#F2ECEA
+
+Primary dark:
+#351F2B
+
+Secondary dark:
+#5A3947
+
+Accent:
+#B58A72
+
+Soft accent:
+#D8B9A8
+
+Text:
+#2B2527
+
+Muted text:
+#766C6F
+
+White:
+#FFFFFF
+
+Use the dark plum/burgundy color primarily for headings, buttons and important UI elements.
+
+Use champagne/rose-gold tones very subtly for accents.
+
+Do NOT overuse gradients.
+
+Use plenty of whitespace.
+
+The website should feel:
+Elegant
+Minimal
+Premium
+Feminine but not overly feminine
+Clinical
+Trustworthy
+Modern
+
+==================================================
+TYPOGRAPHY
+==================================================
+
+Use premium fonts from Google Fonts.
+
+Recommended combination:
+
+Headings:
+"Playfair Display"
+
+Body:
+"Manrope"
+
+Alternative if necessary:
+Headings: Cormorant Garamond
+Body: Inter
+
+Headings should have elegant typography with strong visual hierarchy.
+
+Body text should remain highly readable.
+
+Use:
+- Large editorial-style headings
+- Comfortable line-height
+- Proper letter spacing
+- Different font weights for hierarchy
+
+==================================================
+TECH STACK
+==================================================
+
+Use a modern production-ready stack.
+
+Preferred:
+
+React
+Vite
+TypeScript
+Tailwind CSS
+
+Use reusable components.
+
+Use Lucide React or another clean icon library.
+
+Do NOT use excessive third-party UI components.
+
+Keep the code clean, modular and maintainable.
+
+==================================================
+WEBSITE STRUCTURE
+==================================================
+
+Create the following sections/pages:
+
+1. Sticky Header / Navigation
+2. Hero Section
+3. Trust / Rating Section
+4. About Skinette Clinic
+5. Treatments
+6. Why Choose Skinette Clinic
+7. Technology / Laser Treatment section
+8. Patient Experience / Process
+9. Reviews / Testimonials
+10. Before & After section
+11. FAQ
+12. Appointment CTA
+13. Contact / Location
+14. Footer
+
+If appropriate, also create dedicated treatment pages.
+
+==================================================
+HEADER
+==================================================
+
+Create a premium sticky navbar.
+
+Left:
+SKINETTE CLINIC logo/wordmark.
+
+Navigation:
+
+Home
+About
+Treatments
+Why Skinette
+Reviews
+FAQ
+Contact
+
+Right side:
+"Book Appointment" button
+
+On mobile:
+- Hamburger menu
+- Large touch-friendly navigation
+- Sticky WhatsApp button
+
+Navbar behavior:
+- Transparent/overlay style on hero
+- On scroll, smoothly transition into a white/ivory background with subtle shadow or backdrop blur
+- Smooth scrolling between sections
+
+==================================================
+HERO SECTION
+==================================================
+
+Create a visually stunning hero section.
+
+Use a high-quality aesthetic image related to:
+- Premium dermatology
+- Laser skin treatment
+- Professional female dermatologist
+- Modern skin clinic
+- Clean luxury medical environment
+
+Do NOT use cheesy stock photos.
+
+The image should feel realistic, premium and trustworthy.
+
+Hero layout:
+
+Small eyebrow:
+"ADVANCED LASER & SKIN CARE"
+
+Main heading:
+
+"Reveal Your Best Skin
+with Expert Laser Care."
+
+Supporting text:
+
+"Personalized skin and laser treatments designed to help you look and feel your best — with care, precision and modern technology."
+
+CTA buttons:
+
+"Book an Appointment"
+"Call Clinic"
+
+Also include a WhatsApp CTA.
+
+Below or beside the CTA, show:
+
+★★★★★
+4.8/5
+255+ Google Reviews
+
+Add subtle animated floating trust cards.
+
+For example:
+
+"4.8 ★ Google Rating"
+
+"255+ Happy Reviews"
+
+"Personalized Care"
+
+Hero animations:
+- Smooth fade-in
+- Text slide-up
+- Image scale-in
+- Floating cards with very subtle movement
+- Soft background glow
+- Staggered animation timing
+
+Do not make animations distracting.
+
+==================================================
+TRUST SECTION
+==================================================
+
+Immediately after hero, create a premium trust strip.
+
+Display:
+
+★★★★★
+4.8 Google Rating
+
+255+
+Verified Reviews
+
+Expert Care
+Personalized Treatments
+
+Modern Technology
+Advanced Skin Solutions
+
+Use elegant icons and subtle separators.
+
+==================================================
+ABOUT SECTION
+==================================================
+
+Create an elegant split-layout section.
+
+Left:
+Premium clinic image.
+
+Right:
+
+"Where Skin Health Meets Modern Aesthetics"
+
+Content should explain that Skinette Clinic provides personalized laser and skin treatments with focus on safety, comfort, technology and patient experience.
+
+Do not make unverified medical claims.
+
+Add small highlights:
+
+Personalized Treatment Plans
+Modern Technology
+Patient-Centered Care
+Comfort-Focused Experience
+
+Add CTA:
+"Discover Skinette Clinic"
+
+==================================================
+TREATMENTS SECTION
+==================================================
+
+Create a premium treatment grid.
+
+Title:
+
+"Treatments Designed Around You"
+
+Use attractive cards.
+
+Potential categories:
+
+Laser Hair Reduction
+Acne & Acne Scar Care
+Skin Rejuvenation
+Pigmentation Treatment
+Laser Toning
+Uneven Skin Tone
+Anti-Aging Skin Care
+Hair & Scalp Treatments
+
+IMPORTANT:
+
+Do not make specific medical claims that have not been provided by the business.
+
+Treat these as example service categories and make the content easy to edit later.
+
+Each card should contain:
+- Premium image
+- Treatment name
+- Short description
+- Learn More button
+- Subtle hover effect
+
+Card interaction:
+On hover:
+- Image slightly zooms
+- Card lifts slightly
+- Arrow moves
+- Accent line appears
+
+==================================================
+LASER HAIR REDUCTION FEATURE
+==================================================
+
+Create a visually stronger featured section for:
+
+"Laser Hair Reduction"
+
+Use a large image and elegant text.
+
+Include:
+
+- Personalized approach
+- Modern laser technology
+- Comfortable experience
+- Professional consultation
+
+CTA:
+
+"Book a Consultation"
+
+Add a subtle premium background pattern.
+
+==================================================
+WHY CHOOSE SKINETTE
+==================================================
+
+Create a section with 4–6 benefits.
+
+Examples:
+
+Personalized Care
+Every treatment begins with understanding your skin and goals.
+
+Modern Technology
+Technology-focused treatment experience.
+
+Comfort First
+Designed around patient comfort and confidence.
+
+Professional Approach
+A clean, structured and professional clinical experience.
+
+Transparent Guidance
+Clear treatment information and consultation.
+
+Patient Experience
+Focused on making every visit comfortable and welcoming.
+
+Use elegant line icons.
+
+==================================================
+TREATMENT PROCESS
+==================================================
+
+Create a 4-step timeline:
+
+01
+Consultation
+
+02
+Skin Assessment
+
+03
+Personalized Treatment Plan
+
+04
+Ongoing Care
+
+Animate the timeline when it enters the viewport.
+
+==================================================
+TECHNOLOGY SECTION
+==================================================
+
+Create a premium dark section.
+
+Heading:
+
+"Modern Technology.
+Personalized Care."
+
+Explain that Skinette Clinic combines modern laser/skin treatment technology with personalized consultation.
+
+Use subtle animated particles or gradient glow.
+
+Avoid making claims about specific laser machines unless actual equipment information is provided.
+
+==================================================
+REVIEWS SECTION
+==================================================
+
+This is VERY IMPORTANT.
+
+Show:
+
+4.8 / 5
+
+★★★★★
+
+255 Google Reviews
+
+Create 5–6 testimonial cards using realistic but generic placeholder testimonials.
+
+Clearly structure them so the clinic owner can replace them with actual Google reviews later.
+
+Do NOT invent fake reviews and present them as verified Google reviews.
+
+Example placeholder format:
+
+"Add verified patient review here."
+
+"Add verified patient review here."
+
+Include:
+★★★★★
+Patient Name Placeholder
+
+Create a beautiful horizontal carousel.
+
+Desktop:
+3 cards visible.
+
+Tablet:
+2 cards.
+
+Mobile:
+1 card.
+
+==================================================
+BEFORE & AFTER
+==================================================
+
+Create a premium section:
+
+"Your Journey. Your Transformation."
+
+Use image placeholders for before/after images.
+
+IMPORTANT:
+Do not fabricate medical before/after results.
+
+Use clearly marked placeholder images/content until the clinic provides authentic patient images with appropriate consent.
+
+Add a small disclaimer:
+
+"Individual results may vary. Treatment suitability and outcomes are discussed during consultation."
+
+==================================================
+FAQ
+==================================================
+
+Create an accordion FAQ.
+
+Questions:
+
+What happens during my first consultation?
+
+How do I know which treatment is right for me?
+
+Is laser treatment suitable for everyone?
+
+How should I prepare for my appointment?
+
+How many sessions might I need?
+
+Is there any downtime?
+
+Can I book an appointment through WhatsApp?
+
+IMPORTANT:
+Answers should be general and educational.
+
+Do not provide definitive medical advice.
+
+Add:
+
+"For personalized advice, please consult our clinic team."
+
+==================================================
+APPOINTMENT CTA
+==================================================
+
+Create a visually powerful CTA section.
+
+Heading:
+
+"Ready to Begin Your Skin Journey?"
+
+Supporting text:
+
+"Book a consultation with Skinette Clinic and discover a treatment approach tailored to your needs."
+
+Buttons:
+
+Book Appointment
+WhatsApp Us
+Call 09582108622
+
+Use a premium dark plum background with subtle champagne accents.
+
+==================================================
+CONTACT SECTION
+==================================================
+
+Create a two-column layout.
+
+Left:
+
+"Visit Skinette Clinic"
+
+Address:
+
+2546, Opposite Sagar Cinema,
+HUDA Staff Colony,
+Sector 16,
+Faridabad,
+Haryana 121002
+
+Phone:
+09582108622
+
+Google Rating:
+4.8 ★
+255 Reviews
+
+Right:
+
+Embed a Google Maps location or create a map placeholder that can easily be connected to Google Maps.
+
+Add:
+
+"Get Directions"
+
+button.
+
+==================================================
+FLOATING ACTION BUTTONS
+==================================================
+
+Create fixed floating actions on the bottom-right.
+
+WhatsApp:
+Open WhatsApp with a pre-filled message:
+
+"Hi Skinette Clinic, I would like to book a consultation."
+
+Phone:
+09582108622
+
+On desktop:
+show small labeled buttons.
+
+On mobile:
+use circular floating buttons.
+
+Make sure buttons don't cover important content.
+
+==================================================
+FOOTER
+==================================================
+
+Premium minimal footer.
+
+Include:
+
+SKINETTE CLINIC
+
+"Advanced Laser & Skin Care"
+
+Quick Links:
+Home
+About
+Treatments
+Reviews
+FAQ
+Contact
+
+Contact:
+09582108622
+
+Address:
+2546, Opposite Sagar Cinema,
+HUDA Staff Colony,
+Sector 16,
+Faridabad, Haryana 121002
+
+Include:
+Google rating 4.8 ★
+255 Reviews
+
+Add social media placeholders if needed, but do not invent social media URLs.
+
+Copyright:
+© 2026 Skinette Clinic. All Rights Reserved.
+
+==================================================
+ANIMATIONS & INTERACTIONS
+==================================================
+
+Use modern, subtle animations.
+
+Use Framer Motion if appropriate.
+
+Animations should include:
+
+- Hero text fade/slide
+- Scroll reveal
+- Staggered card animations
+- Image zoom on hover
+- Button hover animations
+- Smooth navbar transition
+- Floating trust badges
+- Treatment card hover
+- FAQ accordion animation
+- Testimonial carousel
+- Smooth scrolling
+- Section reveal animations
+- Subtle background movement
+
+IMPORTANT:
+
+Animations must feel premium and elegant.
+
+Do NOT use:
+- Excessive bouncing
+- Flashing
+- Spinning UI
+- Aggressive parallax
+- Too many effects
+- Slow animations
+
+The website should feel like a high-end dermatology clinic.
+
+==================================================
+MICRO-INTERACTIONS
+==================================================
+
+Add polished micro-interactions:
+
+Buttons:
+- Smooth hover
+- Slight upward movement
+- Arrow movement
+
+Cards:
+- Slight lift
+- Shadow transition
+
+Images:
+- Gentle scale
+
+Links:
+- Underline/opacity transition
+
+Navbar:
+- Smooth background transition
+
+==================================================
+RESPONSIVE DESIGN
+==================================================
+
+The website MUST be fully responsive.
+
+Test and optimize:
+
+Desktop:
+1440px
+1280px
+
+Laptop:
+1024px
+
+Tablet:
+768px
+
+Mobile:
+430px
+390px
+375px
+
+Mobile experience is extremely important.
+
+On mobile:
+- No horizontal scrolling
+- Large readable typography
+- Proper spacing
+- Sticky CTA
+- Easy WhatsApp/Call buttons
+- Touch-friendly navigation
+- Optimized images
+
+==================================================
+SEO
+==================================================
+
+Implement strong local SEO.
+
+Page title:
+
+"Skinette Clinic | Laser Treatment & Skin Clinic in Faridabad"
+
+Meta description:
+
+"Skinette Clinic in Sector 16, Faridabad offers personalized laser and skin care treatments with a modern, patient-focused approach. Book a consultation today."
+
+Use proper:
+
+H1
+H2
+H3
+
+heading hierarchy.
+
+Add descriptive image alt text.
+
+Add LocalBusiness / MedicalBusiness structured data where appropriate.
+
+Include:
+
+Business Name:
+Skinette Clinic
+
+Address:
+2546, Opposite Sagar Cinema, HUDA Staff Colony, Sector 16, Faridabad, Haryana 121002
+
+Telephone:
+09582108622
+
+Rating:
+4.8
+
+Review Count:
+255
+
+Do NOT fabricate individual review data in structured data.
+
+Create clean URLs if multiple pages are implemented.
+
+==================================================
+PERFORMANCE
+==================================================
+
+Optimize for excellent performance.
+
+Use:
+- Lazy loading
+- Optimized images
+- WebP/AVIF where possible
+- Minimal JavaScript
+- Code splitting where appropriate
+- Avoid unnecessary libraries
+- Responsive image sizes
+
+Target:
+Excellent Lighthouse performance.
+
+==================================================
+ACCESSIBILITY
+==================================================
+
+Follow accessibility best practices.
+
+Include:
+- Proper contrast
+- Keyboard navigation
+- Visible focus states
+- Semantic HTML
+- Alt text
+- Accessible buttons
+- ARIA labels where necessary
+- Proper form labels
+
+==================================================
+BOOKING FORM
+==================================================
+
+Create a beautiful appointment form.
+
+Fields:
+
+Full Name
+Phone Number
+Preferred Treatment
+Preferred Date
+Preferred Time
+Message
+
+CTA:
+
+"Request Appointment"
+
+For now, implement the frontend and validation.
+
+Make the form architecture ready for future backend/email/WhatsApp integration.
+
+Do not pretend that an appointment has actually been booked unless backend functionality is implemented.
+
+==================================================
+WHATSAPP
+==================================================
+
+Create WhatsApp integration using the clinic phone number.
+
+The WhatsApp button should open a pre-filled message.
+
+Make the phone number configurable in one central configuration file.
+
+==================================================
+CONTENT
+==================================================
+
+Write polished website copy.
+
+Tone:
+
+Premium
+Warm
+Professional
+Trustworthy
+Reassuring
+Modern
+
+Avoid:
+Overly technical medical language
+Aggressive sales language
+Fake promises
+"100% guaranteed results"
+"Permanent results"
+"Best clinic in India"
+Unverified certifications
+Unverified doctors
+Unverified equipment
+Fake testimonials
+
+Never invent doctors, qualifications, certifications, awards, equipment brands, years of experience, or medical claims.
+
+Where information is unavailable, use editable placeholders.
+
+==================================================
+IMAGES
+==================================================
+
+Use high-quality, premium imagery appropriate for:
+
+- Dermatology clinic
+- Laser treatment
+- Skin care
+- Professional consultation
+- Modern clinic interiors
+- Professional dermatologist
+- Skin treatment environment
+
+Images should have:
+- Clean lighting
+- Premium editorial photography
+- Natural skin
+- Modern clinic environments
+- Minimal backgrounds
+
+Avoid:
+- Cheap stock photography
+- Extremely retouched skin
+- Unrealistic beauty images
+- Medical gore
+- Before/after images without authenticity
+
+Structure image URLs/assets so they can easily be replaced later.
+
+==================================================
+VISUAL DETAILS
+==================================================
+
+Add subtle premium details:
+
+- Soft rounded corners
+- Thin borders
+- Elegant shadows
+- Subtle grain/noise texture
+- Very soft gradients
+- Champagne accent lines
+- Large whitespace
+- Editorial typography
+- Premium image crops
+
+Do not over-round every element.
+
+Do not make the site look like a generic SaaS dashboard.
+
+==================================================
+LOGO
+==================================================
+
+Create a simple text-based wordmark:
+
+SKINETTE
+CLINIC
+
+Use elegant typography.
+
+If creating an icon, use a minimal abstract skin/leaf/line symbol.
+
+Do NOT create a complicated medical cross logo.
+
+==================================================
+FINAL QUALITY CHECK
+==================================================
+
+Before considering the project complete:
+
+1. Run the application.
+2. Check every section.
+3. Check desktop layout.
+4. Check mobile layout.
+5. Check tablet layout.
+6. Fix spacing issues.
+7. Fix typography issues.
+8. Fix overflow issues.
+9. Fix broken links.
+10. Fix console errors.
+11. Verify all buttons.
+12. Verify WhatsApp functionality.
+13. Verify phone call functionality.
+14. Verify appointment form validation.
+15. Verify navbar behavior.
+16. Verify animations.
+17. Verify images load correctly.
+18. Verify accessibility.
+19. Verify SEO metadata.
+20. Verify structured data.
+21. Ensure there are no fake claims.
+22. Ensure no placeholder text such as "Lorem ipsum" remains.
+23. Ensure the design looks premium enough to present to a real clinic owner.
+
+==================================================
+IMPORTANT DESIGN PRINCIPLE
+==================================================
+
+The final website should immediately make a visitor think:
+
+"This looks like a premium, trustworthy and professional skin clinic."
+
+It should NOT look like:
+
+"An AI-generated website."
+
+Prioritize visual quality, spacing, typography, photography, hierarchy and conversion-focused UX.
+
+Build the complete website now.
+Do not stop at a design mockup.
+Actually implement the website and make it runnable in Replit.

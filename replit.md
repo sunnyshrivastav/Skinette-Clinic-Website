@@ -1,10 +1,11 @@
-# [Project name]
+# Skinette Clinic
 
-_Replace the heading above with the project's name, and this line with one sentence describing what this app does for users._
+Premium, responsive marketing website for Skinette Clinic, a laser treatment and skin care clinic in Sector 16, Faridabad.
 
 ## Run & Operate
 
 - `pnpm --filter @workspace/api-server run dev` — run the API server (port 5000)
+- `pnpm --filter @workspace/skinette-clinic run dev` — run the Skinette Clinic website
 - `pnpm run typecheck` — full typecheck across all packages
 - `pnpm run build` — typecheck + build all packages
 - `pnpm --filter @workspace/api-spec run codegen` — regenerate API hooks and Zod schemas from the OpenAPI spec
@@ -22,23 +23,31 @@ _Replace the heading above with the project's name, and this line with one sente
 
 ## Where things live
 
-_Populate as you build — short repo map plus pointers to the source-of-truth file for DB schema, API contracts, theme files, etc._
+- `artifacts/skinette-clinic/src/App.tsx` — single-page clinic experience, content, interactions, form validation, contact actions, and structured data
+- `artifacts/skinette-clinic/src/index.css` — visual system, typography, motion, grain, and responsive styling
+- `artifacts/skinette-clinic/public/` — local hero and clinic interior imagery
 
 ## Architecture decisions
 
-_Populate as you build — non-obvious choices a reader couldn't infer from the code (3-5 bullets)._
+- The site is frontend-only for now; consultation requests are intentionally captured locally and clearly described as requests, not confirmed bookings.
+- Review and before/after areas use explicit placeholders until the clinic supplies approved patient content and consent.
+- Phone and WhatsApp details live centrally in `App.tsx` so conversion links can be updated in one place.
 
 ## Product
 
-_Describe the high-level user-facing capabilities of this app once they exist._
+- Presents Skinette Clinic's treatment approach and location
+- Supports responsive anchor navigation, mobile menu, treatment and FAQ expansion
+- Provides validated consultation request form plus direct phone and prefilled WhatsApp actions
+- Includes local SEO metadata and MedicalBusiness/LocalBusiness JSON-LD
 
 ## User preferences
 
-_Populate as you build — explicit user instructions worth remembering across sessions._
+- Keep medical claims conservative and avoid invented clinicians, credentials, equipment, awards, social URLs, or testimonials.
 
 ## Gotchas
 
-_Populate as you build — sharp edges, "always run X before Y" rules._
+- Do not replace placeholder reviews or patient imagery with fabricated content; use approved clinic material only.
+- The website workflow provides `PORT` and `BASE_PATH`; run through the managed workflow rather than starting Vite without those values.
 
 ## Pointers
 
